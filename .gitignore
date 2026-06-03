@@ -1,0 +1,15 @@
+# Entorno virtual
+env/
+.venv/
+venv/
+
+# Dataset
+dataset/
+
+# Modelos
+*.keras
+*.h5
+
+# Python
+__pycache__/
+*.pyc
